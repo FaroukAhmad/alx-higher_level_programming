@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/usr/bin/phyton3
 
 number = 3.14159
 
