@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin
 
 number = 3.14159
 
